@@ -1,0 +1,254 @@
+body {
+    background-color: rgb(123, 0, 255);
+}
+
+.goa {
+    height: 90px;
+    width: 465px;
+    border: 8px solid red;
+    border-radius: 15px;
+    background-color: rgb(47, 255, 206);
+    box-shadow: 7px 7px 2px;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    position: fixed;
+    margin-top: 500px;
+    margin-left: 400px;
+}
+
+#goa1 {
+    color: brown;
+    font-style: italic;
+    font-size: x-large;
+    font-weight: bold;
+    padding: 10px;
+}
+
+#goa2 {
+    color: brown;
+    font-style: italic;
+    font-size: large;
+    font-weight: bold;
+    padding: 20px;
+}
+
+#weldone {
+    display: flex;
+    justify-content: center;
+}
+
+#welcome1 {
+    height: 200px;
+    width: 550px;
+    border: 8px solid red;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 7px 7px 2px rgb(104, 20, 104);
+}
+
+.study {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(121, 6, 60);
+    font-style: italic;
+    text-shadow: 2px 2px 2px rgb(122, 26, 122);
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+#boss {
+    border: 8px solid green;
+    height: 710px;
+    width: 100%;
+}
+
+#boss img {
+    height: 100%;
+
+}
+
+
+
+
+.car {
+    background: white;
+    height: 250px;
+    width: 250px;
+    border: 7px solid red;
+    border-radius: 13px;
+    box-shadow: 7px 7px 2px rgb(104, 20, 104);
+}
+
+.adda {
+    /* border: 2px solid black; */
+    display: flex;
+    border-radius: 2px;
+    justify-content: space-between;
+
+}
+
+.wee {
+    height: 250px;
+    width: 250px;
+    box-shadow: 7px 7px 2px rgb(104, 20, 104);
+
+
+
+}
+
+.wee img {
+    height: 100%;
+    width: 100%;
+
+}
+
+.address {
+    position: relative;
+    font-size: 22px;
+    font-weight: 900;
+    color: rgb(18, 9, 71);
+    text-shadow: 2px 2px 2px rgb(122, 26, 122);
+    display: flex;
+    border-radius: 2px;
+    justify-content: center;
+    margin: 20px;
+}
+
+.rat {
+    display: flex;
+}
+
+#car2 {
+    margin-left: 790px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.car {
+    border: 2px solid black;
+}
+
+#car3 {
+    margin-top: 120px;
+    color: rgb(18, 9, 71);
+    text-shadow: 2px 2px 2px rgb(122, 26, 122);
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 26px;
+    padding-top: 15px;
+}
+
+#car4 {
+    margin-left: 790px;
+    margin-top: 120px;
+}
+
+img {
+    height: 130px;
+    width: 190px;
+}
+
+#car4-1 {
+    color: rgb(18, 9, 71);
+    text-shadow: 2px 2px 2px rgb(122, 26, 122);
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 22px;
+    padding: 15px;
+}
+
+#car4-2 {
+    text-transform: uppercase;
+    color: rgb(18, 9, 71);
+    text-shadow: 2px 2px 2px rgb(122, 26, 122);
+    font-size: 13px;
+    margin-left: 90px;
+}
+
+input {
+    margin-left: -25px;
+    width: 85px;
+    height: 10px;
+}
+
+#car4-3 {
+    text-transform: uppercase;
+    color: rgb(18, 9, 71);
+    text-shadow: 2px 2px 2px rgb(122, 26, 122);
+    font-size: 13px;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+button {
+    background-color: red;
+    border-radius: 20px;
+    font-size: 10px;
+    margin-right: 40px;
+    font-weight: bold;
+    margin-left: -11px;
+}
+
+.color1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.item1 {
+    margin-top: 30px;
+    background-color: green;
+    border: 8px solid purple;
+    width: 800px;
+    margin-left: 300px;
+    text-align: center;
+    align-content: center;
+    padding: 5px;
+    margin-bottom: 30px;
+}
+
+.fruit1 {
+    color: black;
+    background-color: rgb(224, 224, 152);
+    margin-right: 10px;
+    height: 250px;
+    width: 550px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: small;
+}
+
+.vegas {
+    color: black;
+    background-color: rgb(224, 224, 152);
+    width: 550px;
+    font-weight: bold;
+    font-size: small;
+    font-style: inherit;
+    font-style: italic;
+}
+
+.other-item {
+    color: black;
+    background-color: rgb(224, 224, 152);
+    height: 250px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: small;
+}
